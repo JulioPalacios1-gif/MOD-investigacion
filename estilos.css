@@ -1,0 +1,27 @@
+.H {
+    width: 100%;
+    height: 300px;
+    background-color: beige;
+}
+
+.H h1{
+    text-align: center;
+}
+
+.rectangulo{
+    
+    width: 100%;
+    height: 200px;
+    background-color: beige;
+}
+
+.rectangulo h2{
+    text-align: center;
+}
+
+
+
+
+body{
+    background-color: rgb(139, 62, 62);
+}

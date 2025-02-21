@@ -8,6 +8,9 @@
     text-align: center;
 }
 
+.H nav{
+    text-align: right;
+}
 .rectangulo{
     
     width: 100%;
@@ -19,8 +22,19 @@
     text-align: center;
 }
 
+.rectangulo p{
+    font-size: larger;
+}
 
+.I img{
+position: absolute;
+bottom: 10%;
+left: 45%;    
+}
 
+.Ej iframe{
+    margin-right: 60px;
+}
 
 body{
     background-color: rgb(139, 62, 62);
